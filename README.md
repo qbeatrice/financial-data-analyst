@@ -1,5 +1,4 @@
-# Save the updated README content to a file for user download
-readme_content = """# Sales Data Analyst Agent
+# Sales Data Analyst Agent
 
 This project is an intelligent data analyst agent powered by **Claude API (Anthropic)**. It allows users to ask natural language questions and receive insights or visualizations derived from a connected SQL Server database or uploaded files.
 
